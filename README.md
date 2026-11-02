@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [bryankhor07/Job-Portal](https://github.com/bryankhor07/Job-Portal), maintained by its original author. All credit for the original work goes to them. See the upstream project for license terms.
+
 # 💼 Job Portal
 
 A modern recruitment platform connecting **job seekers** with **employers** in one streamlined interface. Enables posting jobs, searching opportunities, user profile management, and secure applications.
